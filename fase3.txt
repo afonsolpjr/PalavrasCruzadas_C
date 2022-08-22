@@ -1,0 +1,55 @@
+14 8 27
+ALEGRE 0 1 0
+Antonimo de triste
+LAVINIA 1 1 1
+* Vlasak, atriz de vidas opostas
+RENQUE 2 0 1
+Fileira; alinhamento
+REFINAR 4 1 1
+Apurar, aprimorar;
+ELLA 5 1 1
+* Flitzgerald, cantora dos EUA
+DESMAIAR 7 0 1
+Perder os sentidos, desfalecer
+ATLAS 9 0 1
+(Anat.) Primeira vertebra cervical
+CREAM 11 0 1
+Creme, em ingles
+ARRANJAR 13 0 1
+Conseguir, obter
+ESTIRAR 7 1 8
+Estender puxando
+ANGELES 1 2 0
+Los (*), cidade dos EUA
+L 9 2 0
+Consoante de "lei"
+BIGUA 10 3 1
+Ave aquatica
+FOLHA 12 3 1
+Lista de salarios
+GIULIANA 0 4 0
+(*) Morrone, jornalista
+SIMON 9 4 0
+Paul (*), cantor/compositor dos EUA
+LOSE 3 4 1
+Perder, em ingles
+M 7 3 0
+Mil, em romanos
+ABAFA 9 3 0
+Asfixia, sufoca
+NEON 1 5 0
+Gas de luminosos
+XIV 6 5 0
+14, em romanos
+G 10 5 0
+Gauss (simbolo)
+NZ 11 6 1
+Consoantes de "noz"
+BADERNAR 0 7 0
+Pandegar, bagunçar(bras)
+SAL 3 6 0
+Cloreto de Sodio
+ALCUNHA 7 6 0
+Apelido, quase sempre jocoso
+BAZAR 9 7 0
+Loja de quinquilharias

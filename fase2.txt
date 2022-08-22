@@ -1,0 +1,71 @@
+12 11 35
+SMASH 0 1 0
+(Ingles)A cortada,no tenis.
+MIOCARDIO 1 1 1
+Camada muscular do coracao.
+AGRACIAR 2 1 1
+Atribuir titulo por merito.
+SUAR 3 1 1
+Transpirar.
+HASTE 4 1 1
+O pau da bandeira.
+BODA 6 0 1
+Celebraçao de casamento.
+PARCELAR 7 1 1
+Pagar em prestacoes.
+IDIOTA 8 1 1
+Tolo.
+NESSA 9 1 1
+Pronome Demonstrativo Feminino.
+ARDOR 11 0 1
+Entusiasmo.
+OPINAR 6 1 0
+Dar palpite.
+IGUALDADE 1 2 0
+Paridade.
+HORAS 0 3 0
+Existem 24 em um dia.
+ARISCO 6 3 0
+Arredio
+CERCEAR 10 3 1
+(Fig.) Limitar,restringir.
+CARTA 1 4 0
+Cardapio.
+COSER 7 4 0
+Costurar.
+AC 1 5 0
+Sigla do Acre.
+ESPETAR 4 5 0
+Enfiar.
+RIO 1 6 0
+Curso hidrico.
+OLMO 3 6 1
+Arvore de marcenaria.
+MALA 5 6 0
+Bagagem.
+CN 10 6 0
+Simbolo do Cianogenio.
+DALMATA 1 7 0
+Uma raça de caes.
+MAL 4 7 1
+Doenca,enfermidade.
+TEU 9 7 0
+Feito por ti.
+FIRMA 0 8 0
+Assinatura.
+ASMA 5 4 1
+Doença respiratoria.
+PATIO 6 5 1
+Grande saguao.
+NULO 11 6 1
+Que nao tem valor.
+TER 9 7 1
+Possuir.
+IRREAL 6 8 0
+Ficticio.
+RE 8 8 1
+(Musica) A nota D.
+OLEO 3 9 0
+Lubrificante.
+ERRO 8 9 0
+Desacerto.
