@@ -17,7 +17,7 @@ Como a disciplina usava C 99 como padrão, as flags com as quais compilávamos i
 
 O jogo carrega fases pré-elaboradas em arquivos .txt contendo o tamanho do jogo, palavras, dicas e outras informações necessárias. 
 
-Do arquivo monta-se duas matrizes bidimensionais: uma que é o jogo em si, com espaços em branco no lugar das palavras, alterada conforme o jogador deseja, e um gabarito para posterior comparação.
+Do arquivo monta-se duas matrizes bidimensionais: uma que é o jogo em si, com espaços em branco no lugar das palavras, alterada conforme o jogador deseja, e uma gabarito para posterior comparação.
 
 
 Tem um sistema simples para 1 save, criando um arquivo binário para conter a matriz a ser salva.
@@ -27,7 +27,7 @@ Tem um sistema simples para 1 save, criando um arquivo binário para conter a ma
 
 O arquivo texto de fase contém as seguintes informações:
 
-● Tamanho do matriz (nº de linhas e nº de colunas)
+● Tamanho da matriz (nº de linhas e nº de colunas)
 
 ● Número de palavras
 
