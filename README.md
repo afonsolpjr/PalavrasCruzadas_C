@@ -33,10 +33,10 @@ O arquivo texto de fase contém as seguintes informações:
 
 ● Palavras, contendo as seguintes informações para cada uma delas:
 
-     ○ Linha inicial (tipo inteiro);
+     ○ Linha inicial 
   
-     ○ Coluna inicial (tipo inteiro);
+     ○ Coluna inicial
   
-     ○ Sentido (tipo inteiro, 1 para horizontal, 0 para vertical)
+     ○ Sentido
   
-     ○ Dica da palavra.
+     ○ Dica da palavra
