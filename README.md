@@ -24,9 +24,15 @@ Tem um sistema simples para 1 save, criando um arquivo binário para conter a ma
 O arquivo texto de fase contém as seguintes informações:
 
 ● Tamanho do matriz (nº de linhas e nº de colunas)
+
 ● Número de palavras
+
 ● Palavras, contendo as seguintes informações para cada uma delas:
+
   ○ Linha inicial (tipo inteiro);
+  
   ○ Coluna inicial (tipo inteiro);
+  
   ○ Sentido (tipo inteiro, 1 para horizontal, 0 para vertical)
+  
   ○ Dica da palavra.
