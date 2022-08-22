@@ -9,7 +9,7 @@ Inspirado e adaptado pelo projeto proposto em https://ecs-network.serv.pacific.e
 
 ## Como executar?
 
-Compile o arquivo-fonte jogo.c e execute, na pasta que contém as "fases".
+Compile o arquivo-fonte jogo.c e execute, na pasta que contém as "fases". Usamos o gcc como compilador.
 
 Como a disciplina usava C 99 como padrão, as flags com as quais compilávamos incluiam -ansi -pedantic.
 
